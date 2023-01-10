@@ -1,0 +1,32 @@
+.table {
+    font-family: "Lato", sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.table__cell {
+    border: 1px solid #ccc;
+    padding: 20px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.table__caption {
+    caption-side: bottom;
+    text-align: center;
+    margin: 15px;
+}
+
+.table__cell--header {
+    background-color: #457B9D;
+    color: white;
+    font-weight: normal;
+}
+
+.table__row:nth-child(even) {
+    background-color: #ebe6dc;
+}
+
+.table__row:hover {
+    background-color: #c7c3bb;
+}

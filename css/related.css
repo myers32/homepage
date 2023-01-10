@@ -1,0 +1,12 @@
+.related:link {
+    text-decoration: none;
+}
+
+.related:hover {
+    text-decoration: underline;
+    color: blue;
+}
+
+.related {
+    font-size: 14px;
+}

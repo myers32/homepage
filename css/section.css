@@ -1,0 +1,21 @@
+
+.section__head {
+    text-align: center;
+    background-color: #A8DADC;
+    border: 1px solid #1D3557;
+    padding: 10px;
+    margin-bottom: 0px;
+}
+
+.section__head--footer {
+    font-size: 12px;
+    font-weight: normal;
+    font-style: italic;
+    text-align: center;
+    margin-top: 0px;
+}
+
+.section__listItems {
+    list-style-position: inside;
+    text-align: center;
+}

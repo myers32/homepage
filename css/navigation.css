@@ -1,0 +1,27 @@
+.navigation {
+    list-style-type: none;
+    margin: auto;
+    padding: 10px;
+    overflow: hidden;
+    background: #457B9D;
+}
+
+.navigation__listItem {
+    float: left;
+}
+
+.navigation__listItem a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.navigation__listItem a:hover {
+    background-color: hsl(182, 43%, 76%);
+}
+
+.navigation__listItem :active {
+    background-color: hsl(184, 54%, 20%);
+}
