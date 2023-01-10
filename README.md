@@ -1,6 +1,6 @@
 # Project **HOMEPAGE**
 
-[HOMEPAGE](https://myers32.github.io/homepage/)
+[HOMEPAGE](https://myers32.github.io/homepage/) - link to the project on github pages.
 
 ## *Who made this project?*
 
