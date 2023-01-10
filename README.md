@@ -23,7 +23,7 @@ This project includes 5 sections:
 ## *Which programming languages did you use?*
 
 During creation I used mostly html - HyperText Markup Language. More or less 70%-75% of the code is made in html. But you can also find **very** simple JavaScript.
-I also used CSS to put some styling, to make it better for the eye. I hope that it is good for the eye! :) 
+CSS is present too, to put some styling and make it better for the eye. I hope that it is good for the eye! At least not painful :P
 
 ## Here you can find quick preview of the project: 
 
