@@ -1,11 +1,11 @@
-#Project **HOMEPAGE**
+# Project **HOMEPAGE**
 
-##*Who made this project?*
+## *Who made this project?*
 
 This project is made by ✨myself.✨ 
 It is made for the training purposes, I am student at online coding school [YouCode](https://www.youcode.pl).
 
-##*What can I find in this project?
+## *What can I find in this project?
 
 You can find some information related to the world's best airlines and ranking made by *Passenger Choice Skytrax*. 
 There is an article written where you also can find some vital factors which were taken under consideration during establishing the ranking.
@@ -20,11 +20,11 @@ This project includes 5 sections:
 - Best Airline Cabin Crew.
 - World's most improved airlines. 
 
-##*Which programming languages did you use?*
+## *Which programming languages did you use?*
 
 During creation I used mostly html - HyperText Markup Language. More or less 70%-75% of the code is made in html.
 I used also CSS to put some styling, to make it better for the eye. I hope that it is good for the eye! :) 
 
-##Here you can find quick preview of the project: 
+## Here you can find quick preview of the project: 
 
 [![Animationd98dfbeeb145b45d.gif](https://s3.gifyu.com/images/Animationd98dfbeeb145b45d.gif)](https://gifyu.com/image/SvFcY)
