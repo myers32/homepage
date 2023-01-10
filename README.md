@@ -29,4 +29,4 @@ CSS is present too, to put some styling and make it better for the eye. I hope t
 
 ## Here you can find quick preview of the project: 
 
-[![Animationd98dfbeeb145b45d.gif](https://s3.gifyu.com/images/Animationd98dfbeeb145b45d.gif)](https://gifyu.com/image/SvFcY)
+[![Animationcca77b43058a5d4f.gif](https://s3.gifyu.com/images/Animationcca77b43058a5d4f.gif)](https://gifyu.com/image/SvFgx)
