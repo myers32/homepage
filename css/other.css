@@ -17,8 +17,13 @@
 .button {
     display: block;
     text-align: center;
-    font-size: 15px;
-    margin: 0 auto;
+    font-size: 20px;
+    padding: 10px;
+    margin: 5px auto;
+    background-color: #457B9D;
+    border-style: none;
+    border-radius: 10px;
+    color: #fff;
 }
 
 .darkTheme {
