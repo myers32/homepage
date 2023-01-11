@@ -7,7 +7,7 @@
 This project is made by ✨myself.✨ 
 It is made for the training purposes, I am student at online coding school [YouCode](https://www.youcode.pl).
 
-## *What can I find in this project?
+## *What can I find in this project?*
 
 You can find some information related to the world's best airlines and ranking made by *Passenger Choice Skytrax*. 
 There is an article written where you also can find some vital factors which were taken under consideration during establishing the ranking.
